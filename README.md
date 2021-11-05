@@ -6,7 +6,7 @@ Use Obsidian app to open the contents.
 
 https://obsidian.md/
 
-If you are going to add to the framework, leave a note in the repo so we dont have people editing over one another. I was unable to upload it for some reason, possibly due to the amount of files, but could be helpful to allow multiple people to edit at the same time.
+If you are going to add to the framework, leave a note in the repo so we dont have people editing over one another. I was unable to upload it for some reason, possibly due to the amount of files, but could be helpful to allow multiple people to edit at the same time. Have a look for now until we sort it out.
 
 The process is as follows:
 1. Create a temporary account on Crunchbase (5 day trial)
