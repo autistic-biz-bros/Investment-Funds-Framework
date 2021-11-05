@@ -1,5 +1,7 @@
 # Investment-Funds-Framework
 
+The contents are basically a map of VC investments. It was last edited in Febuary, so it requires updating.
+
 Use Obsidian app to open the contents.
 
 https://obsidian.md/
@@ -12,3 +14,5 @@ The process is as follows:
 3. Cross match with thier websites or other sources (news).
 
 The idea is to create a map, so you can identify top performing VC's and where they allocate funds. If a VC performs particularly well and/or has thier bags pumped you can then be sure other projects they have invested in are to perform well, at least thats the idea. Also to identify the amount invested into particular projects. VC's tend to expect a hefty return on thioer investments, because it is unregulated, there is no upper limit.
+
+I will try and keep this alive. This will be the most useful during the coming bear. Hopefully we can expand on it and create somthing good.
